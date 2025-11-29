@@ -6,8 +6,9 @@ class Solution {
          int[] temp = new int[n];
         for (int i=0; i<n; i++){
             if (nums[i]!=0){
-                temp[c]=nums[i];
-                c++;
+                temp[c++]=nums[i];
+
+                // c++;
             } 
         }
        while (temp.length<nums.length){
