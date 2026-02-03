@@ -80,6 +80,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/SamyogGhimire/LeetCode/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SamyogGhimire/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2965-find-missing-and-repeated-values](https://github.com/SamyogGhimire/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -107,4 +108,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SamyogGhimire/LeetCode/tree/master/0053-maximum-subarray) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/SamyogGhimire/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
