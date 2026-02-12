@@ -12,6 +12,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/SamyogGhimire/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SamyogGhimire/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/SamyogGhimire/LeetCode/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/SamyogGhimire/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/SamyogGhimire/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/SamyogGhimire/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/SamyogGhimire/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -135,6 +136,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/SamyogGhimire/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/SamyogGhimire/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/SamyogGhimire/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Prefix Sum
