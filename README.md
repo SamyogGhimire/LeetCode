@@ -102,6 +102,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/SamyogGhimire/LeetCode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/SamyogGhimire/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/SamyogGhimire/LeetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SamyogGhimire/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2965-find-missing-and-repeated-values](https://github.com/SamyogGhimire/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -142,6 +143,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SamyogGhimire/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/SamyogGhimire/LeetCode/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/SamyogGhimire/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/SamyogGhimire/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/SamyogGhimire/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
