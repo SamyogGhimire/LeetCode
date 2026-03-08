@@ -75,6 +75,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SamyogGhimire/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/SamyogGhimire/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0067-add-binary](https://github.com/SamyogGhimire/LeetCode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/SamyogGhimire/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/SamyogGhimire/LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -117,6 +118,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SamyogGhimire/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/SamyogGhimire/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/SamyogGhimire/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/SamyogGhimire/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -136,6 +138,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SamyogGhimire/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/SamyogGhimire/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SamyogGhimire/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Enumeration
