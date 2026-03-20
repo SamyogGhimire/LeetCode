@@ -6,7 +6,9 @@ class Solution {
             if(num1 < temp){
                 num2 = num1;
                 num1 = temp;
-            } else if(num2 < temp) num2 = temp;
+            } else if(num2 < temp) {
+                num2 = temp;
+            }
             n/=10;
         }
         return num1*num2;
