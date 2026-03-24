@@ -31,6 +31,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/SamyogGhimire/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SamyogGhimire/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/SamyogGhimire/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3701-compute-alternating-sum](https://github.com/SamyogGhimire/LeetCode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/SamyogGhimire/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -113,6 +114,7 @@
 | [0067-add-binary](https://github.com/SamyogGhimire/LeetCode/tree/master/0067-add-binary) |
 | [1441-build-an-array-with-stack-operations](https://github.com/SamyogGhimire/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SamyogGhimire/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3701-compute-alternating-sum](https://github.com/SamyogGhimire/LeetCode/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
