@@ -24,6 +24,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SamyogGhimire/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/SamyogGhimire/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SamyogGhimire/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1816-truncate-sentence](https://github.com/SamyogGhimire/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SamyogGhimire/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/SamyogGhimire/LeetCode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SamyogGhimire/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -93,6 +94,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SamyogGhimire/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SamyogGhimire/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SamyogGhimire/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1816-truncate-sentence](https://github.com/SamyogGhimire/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
