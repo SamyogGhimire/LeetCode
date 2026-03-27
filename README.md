@@ -34,6 +34,7 @@
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/SamyogGhimire/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3701-compute-alternating-sum](https://github.com/SamyogGhimire/LeetCode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/SamyogGhimire/LeetCode/tree/master/3731-find-missing-elements) |
+| [3866-first-unique-even-element](https://github.com/SamyogGhimire/LeetCode/tree/main/3866-first-unique-even-element/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/SamyogGhimire/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/SamyogGhimire/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/SamyogGhimire/LeetCode/tree/master/3731-find-missing-elements) |
+| [3866-first-unique-even-element](https://github.com/SamyogGhimire/LeetCode/tree/main/3866-first-unique-even-element/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +81,7 @@
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SamyogGhimire/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SamyogGhimire/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
+| [3866-first-unique-even-element](https://github.com/SamyogGhimire/LeetCode/tree/main/3866-first-unique-even-element/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
