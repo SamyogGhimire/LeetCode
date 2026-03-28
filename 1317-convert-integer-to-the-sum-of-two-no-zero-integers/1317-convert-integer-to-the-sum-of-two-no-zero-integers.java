@@ -1,10 +1,6 @@
 class Solution {
     public int[] getNoZeroIntegers(int n) {
-
-        // int count = String.valueOf(n).length();
-        
         int a = 1;
-
         int b = n - a;
 
         while (hasZero(a) || hasZero(b)) {
