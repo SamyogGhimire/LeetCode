@@ -2,9 +2,9 @@ class Solution {
     public int[] getNoZeroIntegers(int n) {
 
         int count = String.valueOf(n).length();
-        int a = (int) Math.pow(10, count - 1) - 1;
+        // int a = (int) Math.pow(10, count - 1) - 1;
         
-         a = 1;
+        int a = 1;
 
         int b = n - a;
 
