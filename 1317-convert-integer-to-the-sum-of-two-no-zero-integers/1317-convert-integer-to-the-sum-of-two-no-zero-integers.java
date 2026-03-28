@@ -1,8 +1,7 @@
 class Solution {
     public int[] getNoZeroIntegers(int n) {
 
-        int count = String.valueOf(n).length();
-        // int a = (int) Math.pow(10, count - 1) - 1;
+        // int count = String.valueOf(n).length();
         
         int a = 1;
 
