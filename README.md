@@ -98,6 +98,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/SamyogGhimire/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SamyogGhimire/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1816-truncate-sentence](https://github.com/SamyogGhimire/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/SamyogGhimire/LeetCode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
