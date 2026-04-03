@@ -3,12 +3,12 @@ import java.util.*;
 class Solution {
     public int distributeCandies(int[] candyType) {
 
-        Set<Integer> uniqueTypes = new HashSet<>();
+        Set<Integer> uniqueCandy = new HashSet<>();
         for (int candy : candyType) {
-            uniqueTypes.add(candy);
+            uniqueCandy.add(candy);
         }
         int maxAllowed = candyType.length / 2;
 
-        return Math.min(uniqueTypes.size(), maxAllowed);
+        return Math.min(uniqueCandy.size(), maxAllowed);
     }
 }
