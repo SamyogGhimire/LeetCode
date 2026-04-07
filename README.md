@@ -20,6 +20,7 @@
 | [0904-fruit-into-baskets](https://github.com/SamyogGhimire/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/SamyogGhimire/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/SamyogGhimire/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/SamyogGhimire/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SamyogGhimire/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1408-string-matching-in-an-array](https://github.com/SamyogGhimire/LeetCode/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/SamyogGhimire/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -145,6 +146,7 @@
 | [0168-excel-sheet-column-title](https://github.com/SamyogGhimire/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/SamyogGhimire/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0367-valid-perfect-square](https://github.com/SamyogGhimire/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/SamyogGhimire/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/SamyogGhimire/LeetCode/tree/main/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |
 | [2235-add-two-integers](https://github.com/SamyogGhimire/LeetCode/tree/main/2235-add-two-integers/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/SamyogGhimire/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
