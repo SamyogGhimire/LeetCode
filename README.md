@@ -46,6 +46,7 @@
 | [0001-two-sum](https://github.com/SamyogGhimire/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SamyogGhimire/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/SamyogGhimire/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/SamyogGhimire/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/SamyogGhimire/LeetCode/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/SamyogGhimire/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SamyogGhimire/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -145,6 +146,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/SamyogGhimire/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/SamyogGhimire/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/SamyogGhimire/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/SamyogGhimire/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/SamyogGhimire/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SamyogGhimire/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/SamyogGhimire/LeetCode/tree/main/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |
@@ -158,6 +160,7 @@
 | [0015-3sum](https://github.com/SamyogGhimire/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/SamyogGhimire/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/SamyogGhimire/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/SamyogGhimire/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0344-reverse-string](https://github.com/SamyogGhimire/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0917-reverse-only-letters](https://github.com/SamyogGhimire/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/SamyogGhimire/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
