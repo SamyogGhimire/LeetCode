@@ -165,6 +165,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/SamyogGhimire/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SamyogGhimire/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/SamyogGhimire/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/SamyogGhimire/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
