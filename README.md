@@ -98,6 +98,7 @@
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/SamyogGhimire/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SamyogGhimire/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SamyogGhimire/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/SamyogGhimire/LeetCode/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
@@ -116,6 +117,7 @@
 | [0657-robot-return-to-origin](https://github.com/SamyogGhimire/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/SamyogGhimire/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 | [0917-reverse-only-letters](https://github.com/SamyogGhimire/LeetCode/tree/master/0917-reverse-only-letters) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/SamyogGhimire/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/SamyogGhimire/LeetCode/tree/main/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/SamyogGhimire/LeetCode/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SamyogGhimire/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -183,6 +185,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/SamyogGhimire/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SamyogGhimire/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Matrix
 | Problem Name | Difficulty |
