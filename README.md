@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/SamyogGhimire/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/SamyogGhimire/LeetCode/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SamyogGhimire/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/SamyogGhimire/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/SamyogGhimire/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/SamyogGhimire/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SamyogGhimire/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -170,6 +171,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/SamyogGhimire/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/SamyogGhimire/LeetCode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/SamyogGhimire/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SamyogGhimire/LeetCode/tree/master/0069-sqrtx) |
@@ -211,6 +213,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/SamyogGhimire/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/SamyogGhimire/LeetCode/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0463-island-perimeter](https://github.com/SamyogGhimire/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0832-flipping-an-image](https://github.com/SamyogGhimire/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
