@@ -10,6 +10,7 @@
 | [0048-rotate-image](https://github.com/SamyogGhimire/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/SamyogGhimire/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/SamyogGhimire/LeetCode/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/SamyogGhimire/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SamyogGhimire/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SamyogGhimire/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/SamyogGhimire/LeetCode/tree/master/0217-contains-duplicate) |
@@ -224,6 +225,7 @@
 | [0005-longest-palindromic-substring](https://github.com/SamyogGhimire/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/SamyogGhimire/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/SamyogGhimire/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0118-pascals-triangle](https://github.com/SamyogGhimire/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SamyogGhimire/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Enumeration
 | Problem Name | Difficulty |
