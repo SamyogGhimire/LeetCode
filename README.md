@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/SamyogGhimire/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0015-3sum](https://github.com/SamyogGhimire/LeetCode/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SamyogGhimire/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0046-permutations](https://github.com/SamyogGhimire/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/SamyogGhimire/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/SamyogGhimire/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/SamyogGhimire/LeetCode/tree/master/0075-sort-colors) |
@@ -303,4 +304,8 @@
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/SamyogGhimire/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/SamyogGhimire/LeetCode/tree/main/1408-string-matching-in-an-array/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0046-permutations](https://github.com/SamyogGhimire/LeetCode/tree/main/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
