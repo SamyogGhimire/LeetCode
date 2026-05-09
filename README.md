@@ -142,6 +142,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/SamyogGhimire/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SamyogGhimire/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1816-truncate-sentence](https://github.com/SamyogGhimire/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/SamyogGhimire/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/SamyogGhimire/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/SamyogGhimire/LeetCode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Sliding Window
@@ -160,6 +161,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/SamyogGhimire/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/SamyogGhimire/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SamyogGhimire/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/SamyogGhimire/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,6 +171,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/SamyogGhimire/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SamyogGhimire/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SamyogGhimire/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/SamyogGhimire/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/SamyogGhimire/LeetCode/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/SamyogGhimire/LeetCode/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Math
