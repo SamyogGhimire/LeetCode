@@ -140,6 +140,7 @@
 | [0709-to-lower-case](https://github.com/SamyogGhimire/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 | [0796-rotate-string](https://github.com/SamyogGhimire/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [0917-reverse-only-letters](https://github.com/SamyogGhimire/LeetCode/tree/master/0917-reverse-only-letters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SamyogGhimire/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SamyogGhimire/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/SamyogGhimire/LeetCode/tree/main/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/SamyogGhimire/LeetCode/tree/main/1408-string-matching-in-an-array/) | Easy |
@@ -167,6 +168,7 @@
 | [0394-decode-string](https://github.com/SamyogGhimire/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0682-baseball-game](https://github.com/SamyogGhimire/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/SamyogGhimire/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SamyogGhimire/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/SamyogGhimire/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SamyogGhimire/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/SamyogGhimire/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
