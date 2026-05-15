@@ -26,6 +26,7 @@
 | [0704-binary-search](https://github.com/SamyogGhimire/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/SamyogGhimire/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/SamyogGhimire/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
+| [0739-daily-temperatures](https://github.com/SamyogGhimire/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0832-flipping-an-image](https://github.com/SamyogGhimire/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/SamyogGhimire/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/SamyogGhimire/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -169,6 +170,7 @@
 | [0394-decode-string](https://github.com/SamyogGhimire/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0682-baseball-game](https://github.com/SamyogGhimire/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/SamyogGhimire/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
+| [0739-daily-temperatures](https://github.com/SamyogGhimire/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/SamyogGhimire/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SamyogGhimire/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/SamyogGhimire/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -282,6 +284,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0739-daily-temperatures](https://github.com/SamyogGhimire/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SamyogGhimire/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/SamyogGhimire/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Tree
