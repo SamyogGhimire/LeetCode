@@ -157,6 +157,7 @@
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SamyogGhimire/LeetCode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/SamyogGhimire/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/SamyogGhimire/LeetCode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [3174-clear-digits](https://github.com/SamyogGhimire/LeetCode/tree/main/3174-clear-digits/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,6 +187,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/SamyogGhimire/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/SamyogGhimire/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SamyogGhimire/LeetCode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
+| [3174-clear-digits](https://github.com/SamyogGhimire/LeetCode/tree/main/3174-clear-digits/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,6 +202,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SamyogGhimire/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/SamyogGhimire/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SamyogGhimire/LeetCode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
+| [3174-clear-digits](https://github.com/SamyogGhimire/LeetCode/tree/main/3174-clear-digits/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/SamyogGhimire/LeetCode/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/SamyogGhimire/LeetCode/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Math
