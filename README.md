@@ -143,6 +143,7 @@
 | [0796-rotate-string](https://github.com/SamyogGhimire/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/SamyogGhimire/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0917-reverse-only-letters](https://github.com/SamyogGhimire/LeetCode/tree/master/0917-reverse-only-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SamyogGhimire/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SamyogGhimire/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SamyogGhimire/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/SamyogGhimire/LeetCode/tree/main/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
@@ -178,6 +179,7 @@
 | [0735-asteroid-collision](https://github.com/SamyogGhimire/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/SamyogGhimire/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/SamyogGhimire/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SamyogGhimire/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SamyogGhimire/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/SamyogGhimire/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SamyogGhimire/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -246,6 +248,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SamyogGhimire/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SamyogGhimire/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SamyogGhimire/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SamyogGhimire/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
