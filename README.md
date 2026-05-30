@@ -55,6 +55,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SamyogGhimire/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/SamyogGhimire/LeetCode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SamyogGhimire/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SamyogGhimire/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/SamyogGhimire/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/SamyogGhimire/LeetCode/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/SamyogGhimire/LeetCode/tree/main/3701-compute-alternating-sum/) | Easy |
@@ -229,6 +230,7 @@
 | [2235-add-two-integers](https://github.com/SamyogGhimire/LeetCode/tree/main/2235-add-two-integers/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/SamyogGhimire/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SamyogGhimire/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SamyogGhimire/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/SamyogGhimire/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/SamyogGhimire/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Two Pointers
