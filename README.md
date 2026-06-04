@@ -139,6 +139,7 @@
 | [0020-valid-parentheses](https://github.com/SamyogGhimire/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/SamyogGhimire/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0067-add-binary](https://github.com/SamyogGhimire/LeetCode/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/SamyogGhimire/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/SamyogGhimire/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/SamyogGhimire/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/SamyogGhimire/LeetCode/tree/main/0344-reverse-string/) | Easy |
@@ -181,6 +182,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SamyogGhimire/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/SamyogGhimire/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0071-simplify-path](https://github.com/SamyogGhimire/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/SamyogGhimire/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/SamyogGhimire/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SamyogGhimire/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
