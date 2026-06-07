@@ -30,6 +30,7 @@
 | [0739-daily-temperatures](https://github.com/SamyogGhimire/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0832-flipping-an-image](https://github.com/SamyogGhimire/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/SamyogGhimire/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0942-di-string-match](https://github.com/SamyogGhimire/LeetCode/tree/main/0942-di-string-match/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/SamyogGhimire/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/SamyogGhimire/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SamyogGhimire/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -153,6 +154,7 @@
 | [0844-backspace-string-compare](https://github.com/SamyogGhimire/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0917-reverse-only-letters](https://github.com/SamyogGhimire/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SamyogGhimire/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [0942-di-string-match](https://github.com/SamyogGhimire/LeetCode/tree/main/0942-di-string-match/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SamyogGhimire/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/SamyogGhimire/LeetCode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SamyogGhimire/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
@@ -256,6 +258,7 @@
 | [0832-flipping-an-image](https://github.com/SamyogGhimire/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [0844-backspace-string-compare](https://github.com/SamyogGhimire/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0917-reverse-only-letters](https://github.com/SamyogGhimire/LeetCode/tree/master/0917-reverse-only-letters) |
+| [0942-di-string-match](https://github.com/SamyogGhimire/LeetCode/tree/main/0942-di-string-match/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/SamyogGhimire/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/SamyogGhimire/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SamyogGhimire/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -265,6 +268,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SamyogGhimire/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [0942-di-string-match](https://github.com/SamyogGhimire/LeetCode/tree/main/0942-di-string-match/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SamyogGhimire/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SamyogGhimire/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SamyogGhimire/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
