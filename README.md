@@ -161,6 +161,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SamyogGhimire/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0942-di-string-match](https://github.com/SamyogGhimire/LeetCode/tree/main/0942-di-string-match/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SamyogGhimire/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1108-defanging-an-ip-address](https://github.com/SamyogGhimire/LeetCode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/SamyogGhimire/LeetCode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SamyogGhimire/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/SamyogGhimire/LeetCode/tree/main/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
