@@ -269,6 +269,7 @@
 | [0344-reverse-string](https://github.com/SamyogGhimire/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0832-flipping-an-image](https://github.com/SamyogGhimire/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [0844-backspace-string-compare](https://github.com/SamyogGhimire/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/SamyogGhimire/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0917-reverse-only-letters](https://github.com/SamyogGhimire/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0942-di-string-match](https://github.com/SamyogGhimire/LeetCode/tree/main/0942-di-string-match/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/SamyogGhimire/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -375,6 +376,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/SamyogGhimire/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/SamyogGhimire/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
