@@ -24,6 +24,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SamyogGhimire/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/SamyogGhimire/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0496-next-greater-element-i](https://github.com/SamyogGhimire/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/SamyogGhimire/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0575-distribute-candies](https://github.com/SamyogGhimire/LeetCode/tree/main/0575-distribute-candies/) | Easy |
 | [0645-set-mismatch](https://github.com/SamyogGhimire/LeetCode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/SamyogGhimire/LeetCode/tree/main/0682-baseball-game/) | Easy |
@@ -84,6 +85,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/SamyogGhimire/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SamyogGhimire/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/SamyogGhimire/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/SamyogGhimire/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0575-distribute-candies](https://github.com/SamyogGhimire/LeetCode/tree/main/0575-distribute-candies/) | Easy |
 | [0645-set-mismatch](https://github.com/SamyogGhimire/LeetCode/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/SamyogGhimire/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -336,6 +338,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/SamyogGhimire/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/SamyogGhimire/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [2574-left-and-right-sum-differences](https://github.com/SamyogGhimire/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/SamyogGhimire/LeetCode/tree/main/2848-points-that-intersect-with-cars/) | Easy |
