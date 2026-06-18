@@ -9,12 +9,12 @@ class Solution {
         while(right < nums.length){
             sum += nums[right];
             right++;
-        }
-        while (sum >= target){
-            minCount = Math.min(minCount, right - left);
-            exist = true;
-            sum -= nums[left];
-            left++;
+            while (sum >= target){
+                minCount = Math.min(minCount, right - left);
+                exist = true;
+                sum -= nums[left];
+                left++;
+            }
         }
 
         if (!exist){
