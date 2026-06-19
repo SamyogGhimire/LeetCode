@@ -18,6 +18,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/SamyogGhimire/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/SamyogGhimire/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SamyogGhimire/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0189-rotate-array](https://github.com/SamyogGhimire/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/SamyogGhimire/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/SamyogGhimire/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/SamyogGhimire/LeetCode/tree/main/0283-move-zeroes/) | Easy |
@@ -253,6 +254,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/SamyogGhimire/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/SamyogGhimire/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/SamyogGhimire/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/SamyogGhimire/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/SamyogGhimire/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/SamyogGhimire/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/SamyogGhimire/LeetCode/tree/main/0728-self-dividing-numbers/) | Easy |
@@ -272,6 +274,7 @@
 | [0027-remove-element](https://github.com/SamyogGhimire/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/SamyogGhimire/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/SamyogGhimire/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/SamyogGhimire/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/SamyogGhimire/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/SamyogGhimire/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/SamyogGhimire/LeetCode/tree/main/0344-reverse-string/) | Easy |
