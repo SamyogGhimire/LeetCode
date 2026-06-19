@@ -50,6 +50,7 @@
 | [1528-shuffle-string](https://github.com/SamyogGhimire/LeetCode/tree/main/1528-shuffle-string/) | Easy |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/SamyogGhimire/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SamyogGhimire/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/SamyogGhimire/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SamyogGhimire/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1816-truncate-sentence](https://github.com/SamyogGhimire/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/SamyogGhimire/LeetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -346,6 +347,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/SamyogGhimire/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/SamyogGhimire/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/SamyogGhimire/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [1732-find-the-highest-altitude](https://github.com/SamyogGhimire/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/SamyogGhimire/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/SamyogGhimire/LeetCode/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 ## Monotonic Stack
