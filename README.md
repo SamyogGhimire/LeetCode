@@ -54,6 +54,7 @@
 | [1732-find-the-highest-altitude](https://github.com/SamyogGhimire/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SamyogGhimire/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1816-truncate-sentence](https://github.com/SamyogGhimire/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/SamyogGhimire/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/SamyogGhimire/LeetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SamyogGhimire/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/SamyogGhimire/LeetCode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
@@ -128,6 +129,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SamyogGhimire/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SamyogGhimire/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/SamyogGhimire/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
+| [1833-maximum-ice-cream-bars](https://github.com/SamyogGhimire/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SamyogGhimire/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/SamyogGhimire/LeetCode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SamyogGhimire/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -143,6 +145,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SamyogGhimire/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SamyogGhimire/LeetCode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/SamyogGhimire/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
+| [1833-maximum-ice-cream-bars](https://github.com/SamyogGhimire/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/SamyogGhimire/LeetCode/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/SamyogGhimire/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3866-first-unique-even-element](https://github.com/SamyogGhimire/LeetCode/tree/main/3866-first-unique-even-element/) | Easy |
@@ -299,6 +302,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SamyogGhimire/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0942-di-string-match](https://github.com/SamyogGhimire/LeetCode/tree/main/0942-di-string-match/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SamyogGhimire/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/SamyogGhimire/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SamyogGhimire/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SamyogGhimire/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SamyogGhimire/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
