@@ -12,21 +12,18 @@ class Solution {
                 nums[i] = 1;
             }
         }
-        int count  =0;
-        int maxl=0;
+        int maxLen = 0;
+        int count = 0;
         for (int i = 0; i < nums.length; i++){
             sum += nums[i];
-        
             
             if (map.containsKey(sum)){
-                count = i - map.get(sum);
-                maxl = Math.max(maxl,count);
+                nums[i] = i - map.get(sum);
+                maxLen = Math.max(nums[i],maxLen);
+            }else {
+                map.put(sum,i);
             }
-            else{
-            map.put(sum,i);
-            }
-    
+        }
+    return maxLen;
     }
-    return maxl;
-}
 }
