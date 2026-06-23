@@ -29,6 +29,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SamyogGhimire/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/SamyogGhimire/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0496-next-greater-element-i](https://github.com/SamyogGhimire/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/SamyogGhimire/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/SamyogGhimire/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0575-distribute-candies](https://github.com/SamyogGhimire/LeetCode/tree/main/0575-distribute-candies/) | Easy |
 | [0645-set-mismatch](https://github.com/SamyogGhimire/LeetCode/tree/master/0645-set-mismatch) |
@@ -93,6 +94,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/SamyogGhimire/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SamyogGhimire/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/SamyogGhimire/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/SamyogGhimire/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/SamyogGhimire/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0575-distribute-candies](https://github.com/SamyogGhimire/LeetCode/tree/main/0575-distribute-candies/) | Easy |
 | [0645-set-mismatch](https://github.com/SamyogGhimire/LeetCode/tree/master/0645-set-mismatch) |
@@ -268,6 +270,7 @@
 | [0202-happy-number](https://github.com/SamyogGhimire/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/SamyogGhimire/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0507-perfect-number](https://github.com/SamyogGhimire/LeetCode/tree/main/0507-perfect-number/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/SamyogGhimire/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0728-self-dividing-numbers](https://github.com/SamyogGhimire/LeetCode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SamyogGhimire/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/SamyogGhimire/LeetCode/tree/main/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |
@@ -366,6 +369,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SamyogGhimire/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/SamyogGhimire/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/SamyogGhimire/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/SamyogGhimire/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/SamyogGhimire/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1314-matrix-block-sum](https://github.com/SamyogGhimire/LeetCode/tree/main/1314-matrix-block-sum/) | Medium |
