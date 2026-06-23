@@ -36,6 +36,7 @@
 | [0682-baseball-game](https://github.com/SamyogGhimire/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/SamyogGhimire/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/SamyogGhimire/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/SamyogGhimire/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/SamyogGhimire/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/SamyogGhimire/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0832-flipping-an-image](https://github.com/SamyogGhimire/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
@@ -372,6 +373,7 @@
 | [0523-continuous-subarray-sum](https://github.com/SamyogGhimire/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/SamyogGhimire/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/SamyogGhimire/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/SamyogGhimire/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1314-matrix-block-sum](https://github.com/SamyogGhimire/LeetCode/tree/main/1314-matrix-block-sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/SamyogGhimire/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/SamyogGhimire/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
