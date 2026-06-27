@@ -42,6 +42,7 @@
 | [0739-daily-temperatures](https://github.com/SamyogGhimire/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0832-flipping-an-image](https://github.com/SamyogGhimire/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/SamyogGhimire/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/SamyogGhimire/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0942-di-string-match](https://github.com/SamyogGhimire/LeetCode/tree/main/0942-di-string-match/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/SamyogGhimire/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/SamyogGhimire/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -347,6 +348,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SamyogGhimire/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/SamyogGhimire/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0647-palindromic-substrings](https://github.com/SamyogGhimire/LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/SamyogGhimire/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -356,6 +358,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SamyogGhimire/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/SamyogGhimire/LeetCode/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/SamyogGhimire/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -448,4 +451,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/SamyogGhimire/LeetCode/tree/main/0046-permutations/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/SamyogGhimire/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/SamyogGhimire/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 <!---LeetCode Topics End-->
