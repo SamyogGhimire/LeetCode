@@ -8,7 +8,6 @@ class Solution {
             return true;
         }
             
-
         for (int k = 1; k < n; k++) {
             char[] arr = s.toCharArray();
 
