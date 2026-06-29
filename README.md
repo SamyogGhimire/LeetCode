@@ -74,6 +74,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/SamyogGhimire/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2574-left-and-right-sum-differences](https://github.com/SamyogGhimire/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/SamyogGhimire/LeetCode/tree/main/2848-points-that-intersect-with-cars/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SamyogGhimire/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/SamyogGhimire/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SamyogGhimire/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/SamyogGhimire/LeetCode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
@@ -114,6 +115,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SamyogGhimire/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/SamyogGhimire/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2848-points-that-intersect-with-cars](https://github.com/SamyogGhimire/LeetCode/tree/main/2848-points-that-intersect-with-cars/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SamyogGhimire/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/SamyogGhimire/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SamyogGhimire/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/SamyogGhimire/LeetCode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
@@ -221,6 +223,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/SamyogGhimire/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/SamyogGhimire/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/SamyogGhimire/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SamyogGhimire/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
