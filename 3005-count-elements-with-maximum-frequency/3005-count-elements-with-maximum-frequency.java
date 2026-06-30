@@ -5,10 +5,10 @@ class Solution {
         for (int num:nums){
             map.put(num, map.getOrDefault(num,0)+1);
         }
-        int max = 0;
-        for (Map.Entry<Integer,Integer> entry: map.entrySet()){
-            max = Math.max(max, entry.getValue());
-        }
+        int max =  Collections.max(map.values());
+        // for (Map.Entry<Integer,Integer> entry: map.entrySet()){
+        //     max = Math.max(max, entry.getValue());
+        // }
         int total = 0;
         for (Map.Entry<Integer, Integer> entry: map.entrySet()){
             if (max == entry.getValue()){
