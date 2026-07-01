@@ -58,6 +58,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SamyogGhimire/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SamyogGhimire/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/SamyogGhimire/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/SamyogGhimire/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1528-shuffle-string](https://github.com/SamyogGhimire/LeetCode/tree/main/1528-shuffle-string/) | Easy |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/SamyogGhimire/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SamyogGhimire/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -116,6 +117,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/SamyogGhimire/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SamyogGhimire/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SamyogGhimire/LeetCode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/SamyogGhimire/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/SamyogGhimire/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SamyogGhimire/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/SamyogGhimire/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -167,6 +169,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/SamyogGhimire/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SamyogGhimire/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SamyogGhimire/LeetCode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/SamyogGhimire/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/SamyogGhimire/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1833-maximum-ice-cream-bars](https://github.com/SamyogGhimire/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/SamyogGhimire/LeetCode/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
@@ -300,6 +303,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SamyogGhimire/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/SamyogGhimire/LeetCode/tree/main/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SamyogGhimire/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/SamyogGhimire/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2235-add-two-integers](https://github.com/SamyogGhimire/LeetCode/tree/main/2235-add-two-integers/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/SamyogGhimire/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SamyogGhimire/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
