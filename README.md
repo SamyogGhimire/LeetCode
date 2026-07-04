@@ -188,6 +188,7 @@
 | [0006-zigzag-conversion](https://github.com/SamyogGhimire/LeetCode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0014-longest-common-prefix](https://github.com/SamyogGhimire/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/SamyogGhimire/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/SamyogGhimire/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/SamyogGhimire/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0067-add-binary](https://github.com/SamyogGhimire/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/SamyogGhimire/LeetCode/tree/main/0071-simplify-path/) | Medium |
@@ -367,6 +368,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SamyogGhimire/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/SamyogGhimire/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/SamyogGhimire/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/SamyogGhimire/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/SamyogGhimire/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
@@ -481,6 +483,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/SamyogGhimire/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/SamyogGhimire/LeetCode/tree/main/0046-permutations/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
