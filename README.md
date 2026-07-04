@@ -212,6 +212,7 @@
 | [0942-di-string-match](https://github.com/SamyogGhimire/LeetCode/tree/main/0942-di-string-match/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/SamyogGhimire/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SamyogGhimire/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1106-parsing-a-boolean-expression](https://github.com/SamyogGhimire/LeetCode/tree/main/1106-parsing-a-boolean-expression/) | Hard |
 | [1108-defanging-an-ip-address](https://github.com/SamyogGhimire/LeetCode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/SamyogGhimire/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/SamyogGhimire/LeetCode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
@@ -261,6 +262,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SamyogGhimire/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/SamyogGhimire/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SamyogGhimire/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1106-parsing-a-boolean-expression](https://github.com/SamyogGhimire/LeetCode/tree/main/1106-parsing-a-boolean-expression/) | Hard |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/SamyogGhimire/LeetCode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/SamyogGhimire/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SamyogGhimire/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -394,6 +396,7 @@
 | ------- | ------- |
 | [0050-powx-n](https://github.com/SamyogGhimire/LeetCode/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/SamyogGhimire/LeetCode/tree/main/0394-decode-string/) | Medium |
+| [1106-parsing-a-boolean-expression](https://github.com/SamyogGhimire/LeetCode/tree/main/1106-parsing-a-boolean-expression/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
