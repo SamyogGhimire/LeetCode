@@ -318,6 +318,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/SamyogGhimire/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/SamyogGhimire/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2235-add-two-integers](https://github.com/SamyogGhimire/LeetCode/tree/main/2235-add-two-integers/) | Easy |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/SamyogGhimire/LeetCode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/SamyogGhimire/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SamyogGhimire/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SamyogGhimire/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
