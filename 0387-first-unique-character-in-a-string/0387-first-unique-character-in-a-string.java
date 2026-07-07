@@ -1,6 +1,6 @@
 class Solution {
     public int firstUniqChar(String s) {
-        Map<Character, Integer> map = new HashMap<>();
+        Map<Character, Integer> map = new LinkedHashMap<>();
 
         for (char c : s.toCharArray()) {
             map.put(c, map.getOrDefault(c, 0) + 1);
