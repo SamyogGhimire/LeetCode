@@ -77,6 +77,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/SamyogGhimire/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SamyogGhimire/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/SamyogGhimire/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SamyogGhimire/LeetCode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/SamyogGhimire/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/SamyogGhimire/LeetCode/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SamyogGhimire/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -319,6 +320,7 @@
 | [1512-number-of-good-pairs](https://github.com/SamyogGhimire/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2235-add-two-integers](https://github.com/SamyogGhimire/LeetCode/tree/main/2235-add-two-integers/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/SamyogGhimire/LeetCode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SamyogGhimire/LeetCode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/SamyogGhimire/LeetCode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/SamyogGhimire/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SamyogGhimire/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
