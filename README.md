@@ -79,6 +79,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/SamyogGhimire/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SamyogGhimire/LeetCode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/SamyogGhimire/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/SamyogGhimire/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/SamyogGhimire/LeetCode/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SamyogGhimire/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/SamyogGhimire/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -125,6 +126,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/SamyogGhimire/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SamyogGhimire/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/SamyogGhimire/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2784-check-if-array-is-good](https://github.com/SamyogGhimire/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/SamyogGhimire/LeetCode/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SamyogGhimire/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/SamyogGhimire/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -163,6 +165,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SamyogGhimire/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/SamyogGhimire/LeetCode/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SamyogGhimire/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/SamyogGhimire/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SamyogGhimire/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/SamyogGhimire/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/SamyogGhimire/LeetCode/tree/master/3731-find-missing-elements) |
