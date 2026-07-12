@@ -51,6 +51,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/SamyogGhimire/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SamyogGhimire/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1314-matrix-block-sum](https://github.com/SamyogGhimire/LeetCode/tree/main/1314-matrix-block-sum/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/SamyogGhimire/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SamyogGhimire/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SamyogGhimire/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SamyogGhimire/LeetCode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -119,6 +120,7 @@
 | [0904-fruit-into-baskets](https://github.com/SamyogGhimire/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/SamyogGhimire/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/SamyogGhimire/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/SamyogGhimire/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SamyogGhimire/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SamyogGhimire/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SamyogGhimire/LeetCode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -155,6 +157,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/SamyogGhimire/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0645-set-mismatch](https://github.com/SamyogGhimire/LeetCode/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/SamyogGhimire/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/SamyogGhimire/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SamyogGhimire/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SamyogGhimire/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SamyogGhimire/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
