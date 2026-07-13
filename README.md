@@ -36,6 +36,7 @@
 | [0525-contiguous-array](https://github.com/SamyogGhimire/LeetCode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/SamyogGhimire/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0575-distribute-candies](https://github.com/SamyogGhimire/LeetCode/tree/main/0575-distribute-candies/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/SamyogGhimire/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/SamyogGhimire/LeetCode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/SamyogGhimire/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/SamyogGhimire/LeetCode/tree/master/0704-binary-search) |
@@ -251,6 +252,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/SamyogGhimire/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/SamyogGhimire/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SamyogGhimire/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0643-maximum-average-subarray-i](https://github.com/SamyogGhimire/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/SamyogGhimire/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/SamyogGhimire/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SamyogGhimire/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
