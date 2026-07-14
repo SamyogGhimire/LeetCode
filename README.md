@@ -265,6 +265,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/SamyogGhimire/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/SamyogGhimire/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SamyogGhimire/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/SamyogGhimire/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0394-decode-string](https://github.com/SamyogGhimire/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/SamyogGhimire/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/SamyogGhimire/LeetCode/tree/main/0682-baseball-game/) | Easy |
@@ -526,4 +527,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/SamyogGhimire/LeetCode/tree/main/0258-add-digits/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/SamyogGhimire/LeetCode/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
