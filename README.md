@@ -337,6 +337,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/SamyogGhimire/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SamyogGhimire/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/SamyogGhimire/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SamyogGhimire/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/SamyogGhimire/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -529,6 +530,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/SamyogGhimire/LeetCode/tree/main/0258-add-digits/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SamyogGhimire/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
