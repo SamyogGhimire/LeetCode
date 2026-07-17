@@ -32,6 +32,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SamyogGhimire/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/SamyogGhimire/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0496-next-greater-element-i](https://github.com/SamyogGhimire/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/SamyogGhimire/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/SamyogGhimire/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/SamyogGhimire/LeetCode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/SamyogGhimire/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -269,6 +270,7 @@
 | [0155-min-stack](https://github.com/SamyogGhimire/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0394-decode-string](https://github.com/SamyogGhimire/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/SamyogGhimire/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/SamyogGhimire/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/SamyogGhimire/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/SamyogGhimire/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/SamyogGhimire/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
@@ -452,6 +454,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/SamyogGhimire/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/SamyogGhimire/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/SamyogGhimire/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SamyogGhimire/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/SamyogGhimire/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
