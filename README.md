@@ -550,4 +550,5 @@
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/SamyogGhimire/LeetCode/tree/main/0175-combine-two-tables/) | Easy |
 | [0182-duplicate-emails](https://github.com/SamyogGhimire/LeetCode/tree/main/0182-duplicate-emails/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/SamyogGhimire/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
