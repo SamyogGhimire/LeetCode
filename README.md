@@ -12,6 +12,7 @@
 | [0027-remove-element](https://github.com/SamyogGhimire/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/SamyogGhimire/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SamyogGhimire/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/SamyogGhimire/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/SamyogGhimire/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/SamyogGhimire/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/SamyogGhimire/LeetCode/tree/master/0053-maximum-subarray) |
@@ -265,6 +266,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SamyogGhimire/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/SamyogGhimire/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/SamyogGhimire/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/SamyogGhimire/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/SamyogGhimire/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/SamyogGhimire/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -352,6 +354,7 @@
 | [0011-container-with-most-water](https://github.com/SamyogGhimire/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/SamyogGhimire/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/SamyogGhimire/LeetCode/tree/main/0027-remove-element/) | Easy |
+| [0042-trapping-rain-water](https://github.com/SamyogGhimire/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/SamyogGhimire/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/SamyogGhimire/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/SamyogGhimire/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -401,6 +404,7 @@
 | [0005-longest-palindromic-substring](https://github.com/SamyogGhimire/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/SamyogGhimire/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/SamyogGhimire/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/SamyogGhimire/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/SamyogGhimire/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/SamyogGhimire/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/SamyogGhimire/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
@@ -459,6 +463,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/SamyogGhimire/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/SamyogGhimire/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/SamyogGhimire/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/SamyogGhimire/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
