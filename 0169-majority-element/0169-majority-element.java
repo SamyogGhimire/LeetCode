@@ -1,22 +1,17 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        int n = nums.length;
-        HashMap<Integer,Integer> map = new HashMap<>();
+        HashMap<Integer, Integer> map = new HashMap<>();
+        int ans = 0;
 
         for (int num: nums){
             map.put(num, map.getOrDefault(num,0)+1);
         }
-        int max = 0;
-        for (Map.Entry<Integer,Integer> entry: map.entrySet()){
-            max = Math.max(max, entry.getValue());
-        }
 
-        int value = 0;
-        for (Map.Entry<Integer,Integer> entry: map.entrySet()){
-            if (max > n/2 && max == entry.getValue()){
-                value = entry.getKey();
+        for (Map.Entry<Integer, Integer> entry: map.entrySet()){
+            if (entry.getValue() > nums.length / 2){
+                ans = entry.getKey();
             }
         }
-        return value;
+        return ans;
     }
 }
