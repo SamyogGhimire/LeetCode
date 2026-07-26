@@ -54,6 +54,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/SamyogGhimire/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0942-di-string-match](https://github.com/SamyogGhimire/LeetCode/tree/main/0942-di-string-match/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/SamyogGhimire/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/SamyogGhimire/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/SamyogGhimire/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SamyogGhimire/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1314-matrix-block-sum](https://github.com/SamyogGhimire/LeetCode/tree/main/1314-matrix-block-sum/) | Medium |
@@ -265,6 +266,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/SamyogGhimire/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/SamyogGhimire/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/SamyogGhimire/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/SamyogGhimire/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SamyogGhimire/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SamyogGhimire/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Stack
@@ -450,6 +452,7 @@
 | [0367-valid-perfect-square](https://github.com/SamyogGhimire/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/SamyogGhimire/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/SamyogGhimire/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/SamyogGhimire/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SamyogGhimire/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/SamyogGhimire/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Prefix Sum
@@ -462,6 +465,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/SamyogGhimire/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/SamyogGhimire/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/SamyogGhimire/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/SamyogGhimire/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1314-matrix-block-sum](https://github.com/SamyogGhimire/LeetCode/tree/main/1314-matrix-block-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/SamyogGhimire/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/SamyogGhimire/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
