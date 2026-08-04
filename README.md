@@ -281,6 +281,7 @@
 | [0042-trapping-rain-water](https://github.com/SamyogGhimire/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/SamyogGhimire/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/SamyogGhimire/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/SamyogGhimire/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/SamyogGhimire/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SamyogGhimire/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/SamyogGhimire/LeetCode/tree/main/0155-min-stack/) | Medium |
@@ -498,6 +499,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/SamyogGhimire/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/SamyogGhimire/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SamyogGhimire/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/SamyogGhimire/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/SamyogGhimire/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -505,6 +507,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/SamyogGhimire/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/SamyogGhimire/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SamyogGhimire/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/SamyogGhimire/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/SamyogGhimire/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0419-battleships-in-a-board](https://github.com/SamyogGhimire/LeetCode/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0463-island-perimeter](https://github.com/SamyogGhimire/LeetCode/tree/main/0463-island-perimeter/) | Easy |
@@ -520,6 +523,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/SamyogGhimire/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/SamyogGhimire/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SamyogGhimire/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/SamyogGhimire/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/SamyogGhimire/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
