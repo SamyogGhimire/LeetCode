@@ -447,6 +447,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/SamyogGhimire/LeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0050-powx-n](https://github.com/SamyogGhimire/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/SamyogGhimire/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/SamyogGhimire/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -532,6 +533,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SamyogGhimire/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0024-swap-nodes-in-pairs](https://github.com/SamyogGhimire/LeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/SamyogGhimire/LeetCode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/SamyogGhimire/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SamyogGhimire/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
