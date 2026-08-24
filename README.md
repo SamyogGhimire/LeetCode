@@ -71,6 +71,7 @@
 | [1528-shuffle-string](https://github.com/SamyogGhimire/LeetCode/tree/main/1528-shuffle-string/) | Easy |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/SamyogGhimire/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SamyogGhimire/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/SamyogGhimire/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/SamyogGhimire/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SamyogGhimire/LeetCode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SamyogGhimire/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -426,6 +427,7 @@
 | [0463-island-perimeter](https://github.com/SamyogGhimire/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0832-flipping-an-image](https://github.com/SamyogGhimire/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [1314-matrix-block-sum](https://github.com/SamyogGhimire/LeetCode/tree/main/1314-matrix-block-sum/) | Medium |
+| [1672-richest-customer-wealth](https://github.com/SamyogGhimire/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/SamyogGhimire/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
