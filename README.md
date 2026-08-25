@@ -104,6 +104,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SamyogGhimire/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/SamyogGhimire/LeetCode/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/SamyogGhimire/LeetCode/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/SamyogGhimire/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/SamyogGhimire/LeetCode/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SamyogGhimire/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/SamyogGhimire/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -151,6 +152,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/SamyogGhimire/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/SamyogGhimire/LeetCode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SamyogGhimire/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/SamyogGhimire/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/SamyogGhimire/LeetCode/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SamyogGhimire/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3866-first-unique-even-element](https://github.com/SamyogGhimire/LeetCode/tree/main/3866-first-unique-even-element/) | Easy |
