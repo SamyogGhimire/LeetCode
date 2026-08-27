@@ -16,6 +16,7 @@
 | [0046-permutations](https://github.com/SamyogGhimire/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/SamyogGhimire/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/SamyogGhimire/LeetCode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/SamyogGhimire/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/SamyogGhimire/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/SamyogGhimire/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SamyogGhimire/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -114,6 +115,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SamyogGhimire/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SamyogGhimire/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/SamyogGhimire/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/SamyogGhimire/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/SamyogGhimire/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SamyogGhimire/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -427,6 +429,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/SamyogGhimire/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/SamyogGhimire/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/SamyogGhimire/LeetCode/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0463-island-perimeter](https://github.com/SamyogGhimire/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0832-flipping-an-image](https://github.com/SamyogGhimire/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
