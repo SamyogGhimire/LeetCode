@@ -21,6 +21,7 @@
 | [0088-merge-sorted-array](https://github.com/SamyogGhimire/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/SamyogGhimire/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SamyogGhimire/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/SamyogGhimire/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SamyogGhimire/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/SamyogGhimire/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SamyogGhimire/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -164,6 +165,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/SamyogGhimire/LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/SamyogGhimire/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0645-set-mismatch](https://github.com/SamyogGhimire/LeetCode/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/SamyogGhimire/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/SamyogGhimire/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
