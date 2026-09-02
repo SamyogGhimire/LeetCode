@@ -113,6 +113,7 @@
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SamyogGhimire/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/SamyogGhimire/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3866-first-unique-even-element](https://github.com/SamyogGhimire/LeetCode/tree/main/3866-first-unique-even-element/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/SamyogGhimire/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -382,6 +383,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/SamyogGhimire/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SamyogGhimire/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/SamyogGhimire/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/SamyogGhimire/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
