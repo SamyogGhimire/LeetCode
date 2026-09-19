@@ -84,6 +84,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/SamyogGhimire/LeetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SamyogGhimire/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/SamyogGhimire/LeetCode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
+| [1929-concatenation-of-array](https://github.com/SamyogGhimire/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SamyogGhimire/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SamyogGhimire/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SamyogGhimire/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -339,6 +340,7 @@
 | [0832-flipping-an-image](https://github.com/SamyogGhimire/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [0844-backspace-string-compare](https://github.com/SamyogGhimire/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/SamyogGhimire/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1929-concatenation-of-array](https://github.com/SamyogGhimire/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SamyogGhimire/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SamyogGhimire/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/SamyogGhimire/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
